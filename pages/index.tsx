@@ -17,11 +17,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
+        <h1 className="text-3xl font-bold underline">
+          Title
+        </h1>
         <div className={styles.description}>
-          <p>
-            Get started by editing&nbsp;
-            <code className={styles.code}>src/pages/index.tsx</code>
-          </p>
           <pre>{JSON.stringify(allGames, null, 2)}</pre>
         </div>
       </main>
