@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/openbank-template.iml" filepath="$PROJECT_DIR$/.idea/openbank-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/boilerplate-template.iml" filepath="$PROJECT_DIR$/.idea/boilerplate-template.iml" />
     </modules>
   </component>
 </project>
